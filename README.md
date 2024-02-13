@@ -1,13 +1,18 @@
-## Hey! 👋
+## Hey there, I'm Mateus Lino! 👋
 
-I'm Mateus Lino, a Sofware Engineer who's passionate about design patterns and developing for  platforms.
+I'm a Software Engineer passionate about design patterns and developing innovative solutions for  platforms.
 
-- 👨‍💻 Working at [Tellus](https://www.tellusapp.com)
+🛠 Currently enhancing digital financial experiences at [Tellus](https://www.tellusapp.com).
 
-- 📱 Creator of the iOS app Safe Booze
+### 🌟 Featured Projects
 
-- 🚕 Creator of [Taksi](https://github.com/taksi-br/taksi-swift) backend-driven Swift framework
+- **Safe Booze**: Ensuring your night out is as safe as it is fun.
+- **[Taksi](https://github.com/taksi-br/taksi-swift)**: No iOS deployment time with a powerful backend-driven Swift framework.
+- **[LeezyData](https://github.com/matolah/LeezyData)**: Simplifying data management in Swift applications.
 
-- 💾 Creator of [LeezyData](https://github.com/matolah/LeezyData) entity-oriented Swift data layer
+### 📫 Let's Connect
 
-\+ follow me for more 👀
+- LinkedIn: [@mateus-lino-ios](https://www.linkedin.com/in/mateus-lino-ios/)
+- Twitter: [@_matolah](https://twitter.com/_matolah)
+- Email: mateusantos05@gmail.com
+
