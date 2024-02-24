@@ -6,8 +6,8 @@ I'm a Software Engineer passionate about design patterns and developing innovati
 
 ### 🌟 Featured Projects
 
-- **Safe Booze**: Ensuring your night out is as safe as it is fun.
-- **[Taksi](https://github.com/taksi-br/taksi-swift)**: No iOS deployment time with a powerful backend-driven Swift framework.
+- **[Safe Booze](https://apps.apple.com/br/app/safe-booze/id6464216547)**: Ensuring your night out is as safe as it is fun.
+- **[Taksi](https://github.com/taksi-br/taksi-swift)**: Zero iOS deployment time with a powerful backend-driven Swift framework.
 - **[LeezyData](https://github.com/matolah/LeezyData)**: Simplifying data management in Swift applications.
 
 ### 📫 Let's Connect
